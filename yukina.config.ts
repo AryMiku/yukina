@@ -2,13 +2,13 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  title: "AryMiku",
+  subTitle: "AryMiku Blog",
+  brandTitle: "AryMiku",
 
   description: "Demo Site",
 
-  site: "https://yukina-blog.vercel.app",
+  site: "https://yukina.arymiku.com",
 
   locale: "en", // set for website language and date format
 
@@ -31,8 +31,8 @@ const YukinaConfig: Configuration = {
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
+  username: "AryMiku",
+  sign: "ผลงานของ Yukina",
   avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
   socialLinks: [
     {
